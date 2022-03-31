@@ -11,6 +11,6 @@ A completely interactive Dashboard about Worldwide countries with features such 
  - [Jupyter Dash](https://dash.plotly.com/)
 
 ## Screenshots
-![image 1](https://drive.google.com/uc?export=view&id=1uKzSaATPfplqgEg1AIW3XLvJyhDcsFuW)
+![Dashboard 1](https://user-images.githubusercontent.com/86083432/160952661-1dde864d-8018-411e-8568-56be08952666.PNG)
 <br><br>
-![image 2](https://drive.google.com/uc?export=view&id=1-LRgqs8-SDuNSqUSRnNSPmm0LMEUAbkq)
+![Dashboard 2](https://user-images.githubusercontent.com/86083432/160952670-eed1d14d-03af-40ab-bd5c-ead0b67136d8.PNG)
